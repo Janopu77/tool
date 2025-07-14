@@ -1,2 +1,2 @@
-print("Amarito lindo")
+print("Amarito lindo.")
 
